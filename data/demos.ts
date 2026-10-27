@@ -81,7 +81,7 @@ export const demoCategories: DemoCategory[] = [
           access:
             "Ajoutez /admin.html à la fin de l'adresse du site de démo : vous arrivez sur la page de connexion.",
           usage:
-            "Une fois connecté, vous pouvez gérer les annonces, l'équipe, les agences, les mentions légales et les textes du site. Les modifications apparaissent sur le site ; elles persistent jusqu'au prochain redémarrage du service (après une période d'inactivité), qui ramène les données à leur état d'origine.",
+            "Une fois connecté, vous pouvez gérer les annonces, l'équipe, les agences, les mentions légales et les textes du site. Les modifications apparaissent sur le site, puis tout est remis à zéro chaque nuit.",
           identifiant: "Maître-Admin_014",
           motDePasse: "D3mo-4nthem-2026!",
         },
